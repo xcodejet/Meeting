@@ -80,6 +80,14 @@ body {
     -ms-user-select: none; /* Internet Explorer/Edge */
     user-select: none; /* Non-prefixed version, currently supported by Chrome, Edge, Opera and Firefox */
 }
+.home h3 {
+    font-size: 15px;
+    padding: 0px 5px;
+    text-align: left;
+    font-family: "Poppins", sans-serif;
+    color: rgb(255, 226, 146);
+    display: flex;
+}
 .home td {
     font-size: 15px;
     padding: 0px 5px;
